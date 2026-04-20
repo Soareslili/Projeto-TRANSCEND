@@ -5,7 +5,7 @@ A interface apresenta um **Hero Section futurista em estilo 3D**, com animaçõe
 
 ---
 
-## ✨ Visão Geral
+##  Visão Geral
 
 O **Transcend** é um projeto front-end criado para demonstrar habilidades em desenvolvimento de interfaces modernas, animações avançadas e construção de experiências visuais de alto impacto.
 
@@ -19,7 +19,7 @@ A proposta do projeto é entregar uma landing page com estética futurista, util
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **React**
 - **TypeScript**
@@ -30,7 +30,7 @@ A proposta do projeto é entregar uma landing page com estética futurista, util
 
 ---
 
-## 🎨 Funcionalidades
+##  Funcionalidades
 
 - Hero section com visual futurista
 - Efeito de movimento 3D com interação do mouse
@@ -42,7 +42,7 @@ A proposta do projeto é entregar uma landing page com estética futurista, util
 
 ---
 
-## 📸 Destaques do Projeto
+##  Destaques do Projeto
 
 Este projeto foi desenvolvido com foco em:
 
@@ -56,7 +56,7 @@ Este projeto foi desenvolvido com foco em:
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```bash
 src/
